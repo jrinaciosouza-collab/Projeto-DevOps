@@ -6,4 +6,4 @@ Tecnologias utilizadas
 - html 5
 - css 3
 
-O projeto é um simples jogo de "Econtre o numero sorteado" utilizando as boas praticas de programação. 
+O projeto é um simples jogo de "numero-secreto" utilizando as boas praticas de programação. 
